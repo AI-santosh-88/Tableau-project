@@ -1,8 +1,8 @@
-## 
-This Tableau project appears to be a dashboard comparing country codes and average birth rates with internet usage by country. Here's a breakdown based on the visible elements:
+## This Tableau project appears to be a dashboard comparing country codes and average birth rates with internet usage by country. Here's a breakdown based on the visible elements:
 
 ### Title:
-The dashboard seems to focus on two main comparisons: "COUNTRY CODE VS AVG BIRTH RATE" and "COUNTRY NAME VS INTERNET."
+The dashboard seems to focus on two main comparisons: 
+#### "COUNTRY CODE VS AVG BIRTH RATE" and "COUNTRY NAME VS INTERNET."
 #### Map (Top): 
 The map visualizes birth rates across the world. Darker shades of blue likely indicate higher birth rates, while lighter shades indicate lower birth rates. This is the "COUNTRY CODE VS AVG BIRTH RATE" part of the dashboard.
 #### Bar Chart (Bottom): 
